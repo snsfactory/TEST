@@ -1,2 +1,2 @@
-# TEST
+# megaranking
 GitHub Pages
